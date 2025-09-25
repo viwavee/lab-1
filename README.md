@@ -10,7 +10,7 @@
 
 ⚙️ Как запустить проект
 Клонировать репозиторий:
-git clone <(https://github.com/viwavee/lab-1.git)>
+git clone <[ссылка на репозиторий](https://github.com/viwavee/lab-1.git)>
 cd nginx-lab
 Запустить контейнеры:
 
